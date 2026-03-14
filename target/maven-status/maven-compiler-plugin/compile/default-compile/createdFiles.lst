@@ -1,0 +1,11 @@
+com\mycompany\antiviruscbd\Scanner.class
+com\mycompany\antiviruscbd\database\MalwareDB.class
+module-info.class
+com\mycompany\antiviruscbd\SystemInfo.class
+com\mycompany\antiviruscbd\ui\AntivirusUIv2.class
+com\mycompany\antiviruscbd\modelo\Estadisticas.class
+com\mycompany\antiviruscbd\App.class
+com\mycompany\antiviruscbd\historial\HistorialDetecciones.class
+com\mycompany\antiviruscbd\modelo\Deteccion.class
+com\mycompany\antiviruscbd\task\ScannerTask.class
+com\mycompany\antiviruscbd\ui\AntivirusUI.class
